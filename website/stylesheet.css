@@ -5,6 +5,8 @@ body{
     margin: 0px;
     color: #4A4A4A;
     background-color: #F8EDEB;
+    display:flex;
+    flex-direction: column;
 }
 
 .container{
@@ -72,4 +74,17 @@ body{
     border-radius: 10px;
     text-decoration: none;
     color: #4A4A4A;
+}
+
+.btn:hover{
+    background-color: #FCD5CE;
+    cursor:pointer;
+}
+
+.left{
+    width: 50%;
+}
+
+.leftimage{
+    width:100%;
 }
