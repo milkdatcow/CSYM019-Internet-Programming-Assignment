@@ -27,7 +27,7 @@ body{
 }
 
 .grid .item img{
-    height:300px;
+    width: 100%;
 }
 
 .grid .item p{
@@ -87,4 +87,26 @@ body{
 
 .leftimage{
     width:100%;
+}
+
+.gridlist{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2%;
+}
+
+.gridlist .item{
+    background-color: #FCD5CE;
+    text-align: center; 
+    border-radius: 20px;
+    padding:15px;
+}
+
+.gridlist .item img{
+    width: 100%;
+}
+
+.gridlist .item p{
+    padding:0px;
+    margin:2px
 }
