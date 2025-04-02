@@ -12,7 +12,6 @@
                 <p>Event Name</p>
                 <p>Price</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in purus accumsan, facilisis lectus at, ultrices elit. Duis eget imperdiet neque, ac eleifend nulla. Curabitur id iaculis tortor. Morbi ornare erat eleifend, luctus turpis eu, faucibus nulla. Donec faucibus augue ut dolor consectetur, eu scelerisque ex pretium. Cras condimentum sodales ultricies.</p>
-                <a href="" class="btn">Book</a>
             </div>
             <div class="item">
                 <img src="assets/placeholder.webp" alt="placeholder">
