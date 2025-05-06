@@ -9,6 +9,7 @@
     This repository contains the code for an events management website themed around arts and crafts. It is still in active development, so please excuse any unfinished code.
   </p>
 </article>
+<article>
 <h2>
   Below are commands to run the website in a docker container.
 </h2>
@@ -24,3 +25,4 @@ docker stop db-website-container<br>
 docker rm db-website-container<br>
 docker rmi db-website<br>
 </p>
+</article>
